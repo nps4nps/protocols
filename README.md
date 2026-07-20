@@ -42,13 +42,13 @@ We welcome the addition of new protocols, provided that they:
 
 - Are related to the natural product (drug) discovery workflow
 - Are sufficiently different from protocols already present in this repository
-- Are practically used in your own work and do not infringe the intellectual property of a third party (i.e. are not verbatim copies)
+- Are practically used in your own work or are derived from published literature (but not verbatim copies)
 
 If your protocol is within these constraints, we are very happy to receive your request in form of an **Issue**.
 
 #### Formatting and naming
 
-Please follow the structure of the [protocol template](template.md) when preparing your protocol.
+Please follow the structure of the [protocol template](template_protocol.md) when preparing your protocol.
 
 The protocol should be formatted in `markdown`.
 

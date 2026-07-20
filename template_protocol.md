@@ -1,18 +1,23 @@
 Name of protocol
 =======
 
-| Version | Date       | Changes |  
-|---------|------------| --------|
-| 1       | DD-MM-YYYY | Initial version |
+| Version | Date       | Changes | Changed by |   
+|---------|------------| --------|------------|
+| 1       | DD-MM-YYYY | Initial version | ORCID |
 
 **Authors:**
 
-- John Doe, ORCID
+- John Doe, ORCID, Affiliation
 - Don Joe, ORCID
 
 **License:**
 
 - [MIT License](licenses/MIT)
+
+**References:**
+
+- DOI 1
+- DOI 2
 
 
 Protocol
@@ -23,6 +28,9 @@ Protocol
 A brief description of the procedure
 
 ### Steps
+
+*Duration: how long do the steps take*
+
 
 - First step
 - Second step, with an illustration
@@ -36,7 +44,4 @@ A brief description of the expected outcome and how to document the results.
 
 Additional information
 
-### *Ad hoc* prepared reagents
-
-Any reagents prepared for this protocol, 
 
