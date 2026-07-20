@@ -8,6 +8,7 @@ Actinobacterial strain cultivation
 **Authors:**
 
 - [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609)
+- [Jon Doe]()
 
 **License:**
 
