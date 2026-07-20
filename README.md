@@ -46,6 +46,14 @@ We welcome the addition of new protocols, provided that they:
 
 If your protocol is within these constraints, we are very happy to receive your request in form of an **Issue**.
 
+#### Formatting and naming
+
+Please follow the structure of the [protocol template](template.md) when preparing your protocol.
+
+The protocol should be formatted in `markdown`.
+
+Please name your protocol following the convention `your-awesome-protocol-YYMMDD.md`
+
 ### Existing protocols
 
 To change one of the existing protocols, discuss first with one of the maintainers. 
@@ -61,7 +69,7 @@ After approval, a pull request with the proposed changes can be opened.
 ### License
 
 Protocols should specify their own license terms. 
-In case no license terms have been specified, we use the [MIT License](LICENSE) as our fallback license.
+In case no license terms have been specified, we use the [MIT License](licenses/MIT) as our fallback license.
 
 ## For Developers
 
