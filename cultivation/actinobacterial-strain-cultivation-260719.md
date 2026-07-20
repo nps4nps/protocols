@@ -103,6 +103,6 @@ This protocol is designed for mycelium-forming actinomyces, but can also be used
 ### Notes
 
 - Plates should be taped shut to prevent accidental opening. Never use paper tape - it can become moldy and represents a contamination source.
-- For actinomyces, a good all-round liquid medium is [AF](../media/AF-260720.md), while a good all-round solid medium is [SFM](../media/SFM-260720.md)
+- For actinomyces, a good all-round liquid medium is [AF](../cultivation-media/AF-260720.md), while a good all-round solid medium is [SFM](../cultivation-media/SFM-260720.md)
 - For actinomyces, addition of glass beads to the liquid medium can be useful to break up mycelium clusters 
 - For actinomyces, 28 °C is a good all-round cultivation temperature.
