@@ -1,9 +1,9 @@
 Actinobacterial strain cultivation
 =======
 
-| Version | Date       | Changes |  
-|---------|------------| --------|
-| 1       | 20-07-2026 | Initial version |
+| Version | Date       | Changes | Changed by | 
+|---------|------------| --------|------------|
+| 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 **Authors:**
 
