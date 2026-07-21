@@ -33,6 +33,7 @@ Such a set of protocols would
 - Facilitate the exchange of materials and personnel
 - Increase research quality with a set of validated and established protocols
 
+If you want to print the protocols or convert them to PDFs, you can do this with several [online tools](https://print.markdown.janqi.com/).
 
 ## How to Contribute
 
