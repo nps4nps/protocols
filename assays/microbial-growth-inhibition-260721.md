@@ -70,7 +70,7 @@ For growth conditions and other variables of test strains, see the [Appendix](#a
 4. Next day, count the colony-forming units per dilution step and calculate the titer with the formula (nCFU/(amount of inoculum in mL x dilution)); e.g. (60/(0.02 mL x 10⁻⁴)) = 3 x 10⁷ CFU/mL. Calculate for several dilutions and take the average.
 5. The calculated titer is valid for all aliquots in the WCB.
 
-<img src="../media/cfu-count.png" style="width: 33vw"/>
+<img src="../media/cfu-count.png" style="width: 25vw"/>
 
 Figure 1: Schematic of run-down method. 
 A serial dilution is pipetted on the medium plate, which is tilted so that the inoculum can run down. 
@@ -117,7 +117,7 @@ After an overnight cultivation, the colony-forming units are counted and the tit
 
 | Strain            | Medium           | Inoculation conc | Temperature | Time to OD 0.4 | CFU/mL in bioassay | Solvent for extracts | Positive control  | 
 |-------------------|------------------|------------------|-------------|----------------|--------------------|----------------------|-------------------|
-| Bacillus subtilis | Mueller-Hinton   | 1 %              | 37 °C       | ca 4 hours     | 1 x 10⁵            | 1, 2, 3              | apramycin 5 mg/mL |
+| Bacillus subtilis | Mueller-Hinton   | 1 %              | 30 °C       | ca 4 hours     | 1 x 10⁵            | 1, 2, 3              | apramycin 5 mg/mL |
 | Escherichia coli  | Mueller-Hinton   | 1 %              | 37 °C       | ca 7 hours     | 1 x 10⁵            | 1, 2, 3              | apramycin 5 mg/mL |
 
 1. 10% DMSO/H2O
