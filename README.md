@@ -69,7 +69,7 @@ After approval, a pull request with the proposed changes can be opened.
 
 ### License
 
-Protocols should specify their own license terms. 
+Protocols should specify their own license terms. This can also encompass a reference to an article (e.g. often the case with cultivation media.)
 In case no license terms have been specified, we use the [MIT License](licenses/MIT) as our fallback license.
 
 ## For Developers
