@@ -5,13 +5,9 @@ Trace element solution
 |---------|------------| --------|------------|
 | 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
-**Authors:**
+**References**:
 
-- [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609)
-
-**License:**
-
-- [MIT License](licenses/MIT)
+- [Strauch et al 1991](https://doi.org/10.1111/j.1365-2958.1991.tb02109.x)
 
 
 Protocol
@@ -20,17 +16,13 @@ Protocol
 ### Reagents
 
 
-| Name             | CAS-Number | Amount    |
-|------------------|------------|-----------|
-| CaCl2 x 2 H2O    | 10035-04-8 | 3.0 G/L   | 
-| Fe (III) citrate | 3522-50-7  | 1.0 G/L   |
-| MnSO4 x H2O      | 10034-96-5 | 0.2 G/L   |
-| ZnCl2            | 7646-85-7  | 0.1 G/L   |
-| CuSO4 x 5 H2O    | 7758-99-8  | 0.025 G/L |
-| Na2B4O7 x 10 H2O | 1303-96-4  | 0.2 G/L   |
-| CoCl2 x 6 H2O    | 7791-13-1  | 0.004 G/L |
-| Na2MoO4 x 2 H2O  | 10102-40-6 | 0.01 G/L  |
-
+| Name          | CAS-Number | Amount    |
+|---------------|------------|-----------|
+| ZnSO4 x 7 H2O | 7646-85-7  | 0.1 G/L   |
+| FeSO4 x 7 H2O | 7782-63-0 | 0.1 G/L   |
+| MnCl2 x 4 H2O | 13446-34-9 | 0.1 G/L   |
+| CaCl2 x 6 H2O | 7774-34-7 | 0.1 G/L   | 
+| NaCl          | 7647-14-5 | 0.1 G/L   |
 
 ### Steps
 
@@ -40,4 +32,6 @@ Protocol
 ### Notes
 
 - Do not autoclave the solution - this can lead to reaggregation. Always add only after the medium has been autoclaved.
+- Store at 4 °C.
+- Keeps 2 weeks - should be prepared freshly.
 
