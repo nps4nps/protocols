@@ -20,14 +20,13 @@ Name of protocol
 - DOI 2
 
 
-Protocol
-=======
+# Protocol
 
-### Overview
+## Overview
 
 A brief description of the procedure
 
-### Steps
+## Steps
 
 *Duration: how long do the steps take*
 
@@ -36,11 +35,11 @@ A brief description of the procedure
 - Second step, with an illustration
 - Third step
 
-### Outcomes
+## Outcomes
 
 A brief description of the expected outcome and how to document the results.
 
-### Notes
+## Notes
 
 Additional information
 

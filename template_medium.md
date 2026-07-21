@@ -20,10 +20,9 @@ Name of medium
 - DOI 2
 
 
-Protocol
-=======
+# Protocol
 
-### Ingredients
+## Components
 
 
 | Name    | CAS-Number | Amount |
@@ -31,14 +30,14 @@ Protocol
 | Glucose | 50-99-7    | 10 G/L | 
 
 
-### Steps
+## Steps
 
 - First step
 - Second step, with an illustration
 - Third step
 
-### Notes
+## Notes
 
-Additional information
+Additional information that does not fit in the steps
 
 
