@@ -27,11 +27,11 @@ Soil extract
 ## Steps
 
 - Suspend components with DEMI water
-- Autoclave 121 °C 21 mins
-- After cooling to RT, decant into separate vessel
+- Autoclave 121 °C for 20 minutes
+- After cooling to RT, decant into separate tube and centrifuge at 4000 RPM for 3 minutes.
 - Filter supernatant through 0.22 µm filter
 - Store at -20 °C
 
 ## Notes
 
-- Fast soil extraction method compatible with [mesophilic soil isolation](../cultivation/mesophilic-soil-isolation-260721.md) protocol.
+- Fast soil extraction method compatible with [mesophilic soil isolation](../cultivation/mesophilic-soil-isolation-gp-260721.md) protocol.
