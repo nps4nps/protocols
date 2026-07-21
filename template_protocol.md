@@ -26,6 +26,8 @@ Name of protocol
 
 A brief description of the procedure
 
+## Prerequisites
+
 ## Steps
 
 *Duration: how long do the steps take*
