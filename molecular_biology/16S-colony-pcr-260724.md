@@ -71,7 +71,7 @@ A sturdy 16S rRNA-DNA amplification method directly from a colony/cultivatino br
 
 ### Gel purification
 
-1) Prepare 0.8% Agarose in 1% TBE electrophoresis buffer by heating until clear. 
+1) Prepare 0.8% agarose in 1% TBE electrophoresis buffer by heating until clear. 
 2) Wait 5 mins, then add 5 µL of a 10,000X gel stain per 100 mL of agarose
 3) Pour gel, add combs
 4) After gel has solidified, put into run chamber and cover with TBE 1%
@@ -81,7 +81,11 @@ A sturdy 16S rRNA-DNA amplification method directly from a colony/cultivatino br
 
 ### Gel extraction
 
-*Nota bene: follow instructions of the gel extraction kit*
+1) After electrophoresis, keep developed gel on plastic carrier and take a picture in UV chamber, annotate.
+2) Install the UV guard. While on the plastic carrier, cut the desired band with a scalpel, taking care to not excise unspecifically amplified DNA. Trim excess gel. Transfer to a weighted 1.5 mL tube, note down weight of excised gel.
+3) Perform DNA extraction using an extraction kit. Follow instructions of the gel extraction kit.
+4) Prepare a 1% agarose gel to verify extraction. Mix 1 µL of extracted PCR product with 9 µL of loading dye (1X). Run gel at 120 eV for 30 mins to check extraction quality.
+5) If extraction is satisfactory, check concentration at nanodrop.
 
 ### Sequencing
 
