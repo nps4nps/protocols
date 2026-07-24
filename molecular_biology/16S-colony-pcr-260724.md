@@ -76,7 +76,7 @@ A sturdy 16S rRNA-DNA amplification method directly from a colony/cultivatino br
 3) Pour gel, add combs
 4) After gel has solidified, put into run chamber and cover with TBE 1%
 5) Load PCR reaction mixture into wells. Samples should be separated by an empty chamber to facilitate follow-up cutting and extraction.
-6) Add 3 µL of a 1 kb DNA ladder, noting down the vendor
+6) Add 1 µL of a 1 kb DNA ladder, noting down the vendor
 7) Run at 120 eV for 60 min.
 
 ### Gel extraction
