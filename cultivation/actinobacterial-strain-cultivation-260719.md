@@ -15,7 +15,7 @@ Actinobacterial strain cultivation
 
 **References:**
 
-- Partially derived from [doi:10.1021/acs.jnatprod.0c00807](https://doi.org/10.1021/acs.jnatprod.0c00807)
+- Partially derived from [Zdouc et al.](https://doi.org/10.1021/acs.jnatprod.0c00807)
 
 
 # Protocol
