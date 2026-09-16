@@ -128,7 +128,8 @@ While primarily designed for mycelium-forming actinomyces, this protocol can als
 
 ## Outcomes
 
-This protocol results in a set of 25 x 96 well microtiter plates and 1 x 96 well deepwell plate.
+This protocol results in a set of 25 copies of a 96 well microtiter plates and 1 x 96 well deepwell plate.
+The dried extract in each well corresponds to 0.25 mL of the culture broth.
 
 ## Notes
 
