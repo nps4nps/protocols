@@ -82,7 +82,7 @@ If cultivation media extract blanks are included, prepare them in an identical f
 - Gas1 50 psi
 - Gas2 70 psi
 - Curtain gas 30 psi
-- CAN gas 7
+- CAD gas 7
 - Temperature 500 °C
 - Accumulation time 0.15 s
 - DP 80 V
@@ -112,3 +112,4 @@ If cultivation media extract blanks are included, prepare them in an identical f
 
 - This method is particularly suited for amphiphilic molecules. Highly hydrophilic or hydrophobic molecules will suffer from imperfect resolution.
 - To prevent data loss, make sure to submit your newly generated data to a data management plan.
+- If working with a [96 well extract plate](actinobacterial-extraction-protocol-260720.md), work on one column at a time to reduce solvent evaporation, which can lead to variability in concentration and decrease reproducibility. Use a multichannel pipette if possible.
