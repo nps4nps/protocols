@@ -22,7 +22,7 @@
 
 ## Overview
 
-A sturdy 16S rRNA-DNA amplification method directly from a colony/cultivatino broth.
+A sturdy 16S rRNA-DNA amplification method directly from a colony/cultivation broth.
 
 ## Prerequisites
 
