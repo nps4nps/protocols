@@ -77,32 +77,31 @@ If cultivation media extract blanks are included, prepare them in an identical f
 
 #### Mass spectrometry
 
-- Spray voltage 5200 V
-- MS1 100-2000 Da
-- Gas1 50 psi
-- Gas2 70 psi
-- Curtain gas 30 psi
-- CAD gas 7
-- Temperature 500 °C
-- Accumulation time 0.15 s
-- DP 80 V
-- DP spread 0 V
-- Collision energy 10 V
-- CE spread 0 V
-- IDA criteria: small molecule
+- Spray voltage: 5200 V
+- MS1: 100-2000 Da
+- Gas1 (N2): 50 psi
+- Gas2 (N2). 70 psi
+- Curtain gas: 30 psi
+- CAD gas: 7
+- Temperature: 500 °C
+- Accumulation time: 0.15 s
+- Deconvolution potential (DP): 80 V
+- DP spread: 0 V
+- Collision energy (CE): 10 V
+- CE spread: 0 V
+- DDA criteria: small molecule
 - Maximum candidates: 5
-- Intensity threshold 5 cps
+- Intensity threshold: 5 cps
 - Dynamic background subtraction: enabled
 - Exclude former candidate ions: enabled for 2 s after 1 occurrence
 - Dynamic accumulation: enabled
 - Exclude isotopes: 2 Da
-- MS2 40-1000 Da
+- MS2 window: 40-1000 Da
 - DP: 80 V
 - DP spread: 0 V
 - Accumulation time: 0.06 s
 - Collision energy: 35 V
 - CE spread: 15 V
-
 
 ## Outcomes
 
