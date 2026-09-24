@@ -1,6 +1,9 @@
 protocols
 =========
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22941589.svg)](https://doi.org/10.5281/zenodo.22941589)
+
 This repo collects and maintains standardized wet-lab protocols used in natural product (drug) discovery. 
 
 These protocols are collected in the scope of the [NPs4NPs initiative](https://github.com/nps4nps).
