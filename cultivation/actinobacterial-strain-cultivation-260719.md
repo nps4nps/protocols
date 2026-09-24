@@ -15,7 +15,7 @@ Actinobacterial strain cultivation
 
 **References:**
 
-- Partially derived from [doi:10.1021/acs.jnatprod.0c00807](https://doi.org/10.1021/acs.jnatprod.0c00807)
+- Partially derived from [Zdouc et al.](https://doi.org/10.1021/acs.jnatprod.0c00807)
 
 
 # Protocol
@@ -68,7 +68,7 @@ This protocol is designed for mycelium-forming actinomyces, but can also be used
 
 *Nota bene: A working cell bank (WCB) acts as a unitary point in time to have reproducible cultivation conditions. Do not repeatedly thaw and freeze your aliquots.*
 
-1. Fill cryovials are 750 µL 50% sterile glycerol/water mixture. 
+1. Fill cryovials with 750 µL of a sterile 50% glycerol/water mixture. 
 2. Add 750 µL vegetative culture (ideally in exponential phase)
 3. Prepare at least three cryovials: one for production cultivation, one as backup, and one for DNA extraction/sequencing.
 

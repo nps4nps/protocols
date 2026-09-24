@@ -12,7 +12,7 @@ Name of protocol
 
 **License:**
 
-- [MIT License](licenses/MIT)
+- [MIT License](../licenses/MIT)
 
 **References:**
 

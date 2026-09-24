@@ -49,7 +49,8 @@ If your protocol is within these constraints, we are very happy to receive your 
 
 #### Formatting and naming
 
-Please follow the structure of the [protocol template](template_protocol.md) when preparing your protocol.
+Please follow the structure of the [protocol template](templates/template_protocol.md) when preparing your protocol. 
+For cultivation media, please follow the [media template](templates/template_medium.md).
 
 The protocol should be formatted in `markdown`.
 

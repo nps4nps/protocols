@@ -12,7 +12,7 @@ Name of medium
 
 **License:**
 
-- [MIT License](licenses/MIT)
+- [MIT License](../licenses/MIT)
 
 **References:**
 
