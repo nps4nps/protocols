@@ -19,9 +19,9 @@ Mesophilic soil sampling
 
 ## Overview
 
-This protocol describes the sampling of mesophilic soils.
+This protocol describes the sampling of soils.
 
-It aims to isolate mainly spore-forming Gram-positive bacteria, but it can also be used for the isolation of other microorganisms.
+It aims to isolate mainly mesophilic spore-forming Gram-positive bacteria, but it can also be used for the isolation of other microorganisms.
 
 ## Prerequisites
 
@@ -49,7 +49,7 @@ It aims to isolate mainly spore-forming Gram-positive bacteria, but it can also 
 
 Soil samples should be dried as soon as possible to prevent decomposition and/or formation of molds.
 
-- Dry the sample in a dark place at appproximately 25-30 °C for 2-3 days until the sample is visibly dried. 
+- Dry the sample in a dark place at approximately 25-30 °C for 2-3 days until the sample is visibly dried. 
 - Declare the sample collection as a [nanopublication](https://nanodash.knowledgepixels.com/publish?template=https%3A%2F%2Fw3id.org%2Fnp%2FRAEJRjmoJEBDAP6DoW24bKA2xCsk2V-t4395Uo4TmTGUs%2Ftemplate&template-version=latest&context=https%3A%2F%2Fw3id.org%2Fspaces%2Fknowledgepixels%2Fnanodash%2Fr%2Fhome)
 - Store the sample at room temperature.
 
