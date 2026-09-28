@@ -4,7 +4,7 @@ Soil extract
 | Version | Date       | Changes | Changed by | 
 |---------|------------| --------|------------|
 | 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
-
+| 2       | 28-09-2026 | Changed autoclave time from 20 to 15 mins | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 **Authors:**
 
@@ -27,7 +27,7 @@ Soil extract
 ## Steps
 
 - Suspend components with DEMI water
-- Autoclave 121 °C for 20 minutes
+- Autoclave 121 °C for 15 minutes
 - After cooling to RT, decant into separate tube and centrifuge at 4000 RPM for 3 minutes.
 - Filter supernatant through 0.22 µm filter
 - Store at -20 °C
