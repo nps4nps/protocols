@@ -5,6 +5,7 @@ Mesophilic soil isolation
 | Version | Date       | Changes | Changed by | 
 |---------|------------| --------|------------|
 | 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
+| 2       | 06-10-2026 | Adjusted amount of soil and use of antibiotics post-plate | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 
 **Authors:**
@@ -45,7 +46,7 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 
 ### Consumables
 
-- Agar plates (155 mm) w antibiotics and soil extract, 4 per [medium](#appendix)
+- Agar plates (92 mm) w antibiotics and soil extract, 4 per [medium](#appendix)
   - Nalidixic acid 40 µg/mL (0.3 mL of stock) and cycloheximide 50 µg/mL (0.3 mL of stock).
   - [Soil extract](../cultivation_media/soil-extract-260721.md) at 5% (1.5 mL of stock solution).
 - Agar plates (60 mm) w antibiotics (as above) but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) instead of soil extract.
@@ -58,16 +59,16 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 
 ### Pre-cultivation
 
-1) Add 3 G of dried, crushed soil in 50 mL flask
+1) Add 1 G of dried, crushed soil in 50 mL flask
 2) Add 15 mL of liquid medium
-3) Heat in a water bath at 80 °C for 10.0 mins. Rapidly cool to RT using an ice bath.
+3) Heat in a water bath at 50 °C for 10.0 mins. Rapidly cool to RT using an ice bath.
 4) Add cycloheximide to 40 µg/mL (0.15 mL of stock) and nalidixic acid to 50 µg/mL (0.15 mL of stock) to the medium.
-5) Incubate at 14 °C at 150 RPM for two weeks. Feed 7.5 mL fresh medium every week
+5) Incubate at 20 °C (room temperature) at 150 RPM for one weeks.
 6) After completion of pre-cultivation, decant slurry into 50 mL falcon tube.
 7) Allow to settle for 10 mins but do NOT centrifuge. Store one aliquot in 25% glycerol at -80 °C as backup.
 8) Perform a serial dilution to -8 using sterile 0.9% saline, starting from 100 µL of the pre-culture.
 9) Plate 100 µL of dilution step -5 to -8 on previously prepared 155 mm agar plates.
-10) Cultivate plates at 12-14 °C for up to 6 months. Colonies can be picked and processed whenever they appear.
+10) Cultivate plates at 20 °C (room temperature) for up to 4 weeks. Colonies can be picked and processed whenever they appear.
 
 ### From plate to cryostock
 
@@ -75,7 +76,7 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 2) If colony is solid, crush colony with a sterile micropestle
 3) Perform a dilution streak on a 60 mm agar plate (containing the medium the strain has initially grown on, with antibiotics, with [TES](../cultivation_media/trace-element-solution-260720.md) replacing [soil extract](../cultivation_media/soil-extract-260721.md))
 4) Incubate at 28 °C until colonies appear, for a maximum of two weeks. [1]
-5) Repeat steps 1) and 2), inoculating a 50 mL flask containing 15 mL of liquid medium (containing the medium the strain has initially grown on, with antibiotics, with [TES](../cultivation_media/trace-element-solution-260720.md) replacing [soil extract](../cultivation_media/soil-extract-260721.md))
+5) Repeat steps 1) and 2), inoculating a 50 mL flask containing 15 mL of liquid medium (containing the medium the strain has initially grown on, with [TES](../cultivation_media/trace-element-solution-260720.md) replacing [soil extract](../cultivation_media/soil-extract-260721.md)). Omit antibiotics.
 6) Cultivate at 200 RPM at 28 °C for three days.
 7) After three days, store 1.5 mL aliquots of the culture at 25% glycerol. Also retrieve an aliquot for [16S colony PCR](../molecular_biology/16S-colony-pcr-260722.md).
 8) Continue with [post-processing](#post-processing)
@@ -93,7 +94,7 @@ This protocol results in isolate aliquots ready for [strain cultivation](../cult
 ## Notes
 
 - [1] Drop-outs at this stage are incapable of adapting to mesophilic conditions and can be considered incompatible with a medium throughput natural product drug discovery approach.
-- [2] The cleanup of co-cultures/contaminated isolates is very costly and should only be attempted in exceptional cases. A bird in the hand is worth two in the bush.
+- [2] The cleanup of co-cultures/contaminated isolates is very costly and should only be attempted in exceptional cases.
 
 ## Appendix
 

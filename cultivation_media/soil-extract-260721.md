@@ -5,6 +5,7 @@ Soil extract
 |---------|------------| --------|------------|
 | 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 | 2       | 28-09-2026 | Changed autoclave time from 20 to 15 mins | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
+| 3       | 06-10-2026 | Reduced amouts of soil | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 **Authors:**
 
@@ -20,7 +21,7 @@ Soil extract
 
 | Name                 | CAS-Number | Amount  |
 |----------------------|------------|---------|
-| Soil, dried, crushed | N/A        | 100 G/L | 
+| Soil, dried, crushed | N/A        | 10 G/L | 
 | NaCl                 | 7647-14-5       | 9 G/L   | 
 
 
