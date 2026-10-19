@@ -4,6 +4,7 @@ Actinobacterial strain cultivation
 | Version | Date       | Changes | Changed by | 
 |---------|------------| --------|------------|
 | 1       | 20-07-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
+| 1       | 19-10-2026 | Updated cultivation times. | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 **Authors:**
 
@@ -61,7 +62,7 @@ This protocol is designed for mycelium-forming actinomyces, but can also be used
 1. Prepare 1.5 mL tubes with 0.75 mL of sterile saline.
 2. Pick a single colony with a sterile toothpick, put into saline, crush as much as possible (e.g. with a sterile pestle).
 3. Transfer inoculated medium into 50 mL flasks with 15 mL medium
-4. Cultivate on an orbital shaker at 200 RPM for three days
+4. Cultivate on an orbital shaker at 200 RPM for **three days**
 5. After vegetative cultivation, check for contamination by plating on non-specific solid medium and cultivating at 37 °C overnight and by inspecting the culture under a light microscope.
 
 ### Preparation working cell bank
@@ -69,20 +70,20 @@ This protocol is designed for mycelium-forming actinomyces, but can also be used
 *Nota bene: A working cell bank (WCB) acts as a unitary point in time to have reproducible cultivation conditions. Do not repeatedly thaw and freeze your aliquots.*
 
 1. Fill cryovials with 750 µL of a sterile 50% glycerol/water mixture. 
-2. Add 750 µL vegetative culture (ideally in exponential phase)
-3. Prepare at least three cryovials: one for production cultivation, one as backup, and one for DNA extraction/sequencing.
+2. From a liquid culture in exponential growth phase, add 750 µL vegetative culture
+3. Prepare at least four cryovials: two for production cultivation, one as backup, and one for DNA extraction/sequencing.
 
 ### Vegetative cultivation - from working cell bank
 
 1. Inoculate 15ml medium in 50ml flask with 1.5 mL of thawed WCB aliquot (inoculation volume ca. 10%)
-2. Cultivate on an orbital shaker at 200 RPM for two days
-3. After three days, continue with [the next step](#production-cultivation---from-vegetative-cultivation)
+2. Cultivate on an orbital shaker at 200 RPM for **two days**
+3. After two days, continue with [the next step](#production-cultivation---from-vegetative-cultivation)
 
 ### Production cultivation - from vegetative cultivation
 
-1. Inoculate 15ml medium in 50ml flask with 1.5 mL of exponentially growing culture (inoculation volume ca. 10%)
-2. Cultivate on an orbital shaker at 200 RPM for seven days
-3. After seven days, continue with [the extraction protocol](../analytical_chemistry/actinobacterial-extraction-protocol-260720.md)
+1. Inoculate 15 mL medium in 50ml flask with 1.5 mL of exponentially growing culture (inoculation volume ca. 10%)
+2. Cultivate on an orbital shaker at 200 RPM for **seven days**
+3. After **seven days**, continue with [the extraction protocol](../analytical_chemistry/actinobacterial-extraction-protocol-260720.md)
 
 ## Outcomes
 
