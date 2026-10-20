@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [0.1.2] UNRELEASED
+
+### Added
+
+- 16S rRNA-DNA PCR
+
+### Changed
+
+- Adjusted protocol for isolation of strains from mesophilic soils
+
 ## [0.1.2] 28.09.2026
 
 ### Fixed
