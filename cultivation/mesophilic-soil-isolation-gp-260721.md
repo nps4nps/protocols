@@ -47,8 +47,8 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 ### Consumables
 
 - Agar plates (92 mm) w antibiotics and soil extract, 4 per [medium](#appendix) (to plate four dilution steps; see below)
-  - Nalidixic acid 40 µg/mL (0.2 mL of stock solution) and cycloheximide 50 µg/mL (0.2 mL of stock solution).
-  - [Soil extract](../cultivation_media/soil-extract-260721.md) at 5% (1 mL of stock solution).
+  - Nalidixic acid 40 µg/mL (0.2 mL of stock solution per plate) and cycloheximide 50 µg/mL (0.2 mL of stock solution per plate).
+  - [Soil extract](../cultivation_media/soil-extract-260721.md) at 5% (1 mL of stock solution per plate).
 - Agar plates (60 mm) of the same medium and antibiotics as above, but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) instead of soil extract.
 - Liquid variant of isolation medium, **without** antibiotics, but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) instead of soil extract.
 - Sterile toothpicks
