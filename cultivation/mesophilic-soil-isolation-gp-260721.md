@@ -36,11 +36,11 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 
 - Nalidixic acid (CAS Nr. 389-08-2):
   - Stock solution 4 mg/mL (100x) in 0.1 M NaOH, sterile filtration 0.22 µm
-  - 10 mL is sufficient for 50 units of 92 mm petri dishes (20 mL per petri dish)
+  - 10 mL is sufficient for 50 units of 92 mm petri dishes (20 mL per petri dish) OR 100 units of 60 mm petri dishes (10 mL per petri dish)
   - Unstable in aqueous conditions, should be frozen asap
 - Cycloheximide (CAS Nr. 66-81-9; caution - toxic!):
   - Stock solution 5 mg/mL (100x) in H20, sterile filtration 0.2 µm 
-  - 10 mL is sufficient for 50 units of 92 mm petri dishes (20 mL per petri dish)
+  - 10 mL is sufficient for 50 units of 92 mm petri dishes (20 mL per petri dish) OR 100 units of 60 mm petri dishes (10 mL per petri dish)
 - Sterile 0.9% NaCl solution
 - Sterile 50% glycerol/water mixture
 
@@ -49,7 +49,7 @@ A selection of suitable media can be found in the [Appendix](#appendix)
 - Agar plates (92 mm) w antibiotics and soil extract, 4 per [medium](#appendix) (to plate four dilution steps; see below)
   - Nalidixic acid 40 µg/mL (0.2 mL of stock solution per plate) and cycloheximide 50 µg/mL (0.2 mL of stock solution per plate).
   - [Soil extract](../cultivation_media/soil-extract-260721.md) at 5% (1 mL of stock solution per plate).
-- Agar plates (60 mm) of the same medium and antibiotics as above, but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) instead of soil extract.
+- Agar plates (60 mm) of the same medium and antibiotics as above (0.1 mL of each stock solution per plate), but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) (0.01 mL of TES per plate) instead of soil extract.
 - Liquid variant of isolation medium, **without** antibiotics, but with 1 mL/L [Trace Element Solution](../cultivation_media/trace-element-solution-260720.md) instead of soil extract.
 - Sterile toothpicks
 - Sterile micropestles compatible with 1.5 mL tubes
