@@ -4,6 +4,7 @@ Actinobacterial strain cultivation
 | Version | Date       | Changes | Changed by | 
 |---------|------------| --------|------------|
 | 1       | 16-09-2026 | Initial version | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
+| 1       | 05-11-2026 | Updates re liquid handling  | [Mitja M. Zdouc](https://orcid.org/0000-0001-6534-6609) |
 
 **Authors:**
 
@@ -40,7 +41,7 @@ For other extraction protocols, a filtering step may be considered during [prepa
 
 ### Consumables
 
-- 2 mL HPLC vials with 100 µL microinserts
+- 2 mL HPLC vials
 - 1.5 mL reaction tubes
 - Pipette tips
 
@@ -56,10 +57,10 @@ For other extraction protocols, a filtering step may be considered during [prepa
 2. Dissolve extracts in 200 µL MeOH 80%/Water in stepwise fashion. First, dissolve the residue in 100 µL solvent, pipetting vigorously before transferring to the 1.5 mL tube. This process is repeated once more.
 3. Mix the dissolved sample by brief vortexing.
 4. Centrifuge 1.5 mL tubes at 4 °C at 16000 RPM for 10 mins.
-5. Transfer 10 µL of supernatant to HPLC vial containing a microinsert. Add 90 µL of solvent. This results in a 1:10 diluted sample.
-6. For the pooled quality control sample (QC), add 1 µL of each sample supernatant to a separate reaction tube. Dilute 1:10 and transfer to a HPLC tube with microinsert.
+5. Transfer 100 µL of the supernatant to a 2 mL HPLC vial. Add 900 µL of solvent. This results in a 1:10 diluted sample.
+6. For the pooled quality control sample (QC), add 10 µL of each sample supernatant to a separate reaction tube. Transfer 100 µL of the supernatant to a 2 mL HPLC vial. Add 900 µL of solvent to create a 1:10 dilution.
 
-If cultivation media extract blanks are included, prepare them in an identical fashion. Note that these samples are considered blanks and are not included in the pooled QC
+If cultivation media extract blanks are included, prepare them in an identical fashion. Note that these samples are considered blanks and are not included in the pooled QC.
 
 ### LCMS analysis
 
